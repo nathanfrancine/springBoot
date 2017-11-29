@@ -1,0 +1,5 @@
+com\tigo\customerinformation\Controller.class
+com\tigo\customerinformation\CustomErrorType.class
+com\tigo\customerinformation\UsageInformation.class
+com\tigo\customerinformation\CustomerService.class
+com\tigo\customerinformation\CustomerInformationController.class
